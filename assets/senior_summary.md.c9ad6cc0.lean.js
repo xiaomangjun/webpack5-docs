@@ -1,0 +1,1 @@
+import{_ as e,c as l,o,a as i}from"./app.4677b28a.js";const h=JSON.parse('{"title":"\u603B\u7ED3","description":"","frontmatter":{},"headers":[],"relativePath":"senior/summary.md","lastUpdated":null}'),c={name:"senior/summary.md"},a=i("",10),d=[a];function t(r,s,n,_,u,p){return o(),l("div",null,d)}const b=e(c,[["render",t]]);export{h as __pageData,b as default};
