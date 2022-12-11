@@ -1,0 +1,26 @@
+export default [
+  {
+    text: "基础配置",
+    collapsible: true,
+    collapsed: true,
+    items: [
+      { text: "前言", link: "/base/" },
+      { text: "基本使用", link: "/base/base" },
+      { text: "基本配置", link: "/base/config" },
+      { text: "开发模式介绍", link: "/base/development" },
+      { text: "处理样式资源", link: "/base/css" },
+      { text: "处理图片资源", link: "/base/image" },
+      { text: "修改输出资源的名称和路径", link: "/base/output" },
+      { text: "自动清空上次打包资源", link: "/base/clean" },
+      { text: "处理字体图标资源", link: "/base/font" },
+      { text: "处理其他资源", link: "/base/other" },
+      { text: "处理 js 资源", link: "/base/javascript" },
+      { text: "处理 Html 资源", link: "/base/html" },
+      { text: "开发服务器&自动化", link: "/base/server" },
+      { text: "生产模式介绍", link: "/base/production" },
+      { text: "Css 处理", link: "/base/optimizeCss" },
+      { text: "html 压缩", link: "/base/minifyHtml" },
+      { text: "总结", link: "/base/summary" },
+    ],
+  },
+];
